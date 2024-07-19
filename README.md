@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  A Blockchain developer
 
 
--  [![My Skills](https://skillicons.dev/icons?i=solidity,javaScript,mysql,R)](https://skillicons.dev)
+-  [![My Skills](https://skillicons.dev/icons?i=solidity,javascript,Typescript, mysql,R)](https://skillicons.dev)
 
   
 
