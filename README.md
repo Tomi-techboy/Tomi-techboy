@@ -2,14 +2,7 @@
 
  
  
- A Blockchain developer
 
-
--  [![My Skills](https://skillicons.dev/icons?i=solidity,javaScript,mysql,R)](https://skillicons.dev)
-
-  
-
-- 👯 I’m looking to 
 <!--
 **Tomi-techboy/Tomi-techboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ A Blockchain developer
+
+
+-  [![My Skills](https://skillicons.dev/icons?i=solidity,javaScript,mysql,R)](https://skillicons.dev)
+
+  
+
+- 👯 I’m looking to collaborate
