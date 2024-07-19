@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Tomiwa
 
+ 
+ 
+ A Blockchain developer
+
+
+-  [![My Skills](https://skillicons.dev/icons?i=solidity,javaScript,mysql,R)](https://skillicons.dev)
+
+  
+
+- 👯 I’m looking to 
 <!--
 **Tomi-techboy/Tomi-techboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
